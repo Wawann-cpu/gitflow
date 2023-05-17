@@ -1,1 +1,3 @@
 start B
+continue B
+finalize B
